@@ -20,8 +20,8 @@ def jumper(request):
 def babe(request):
     return render(request, 'keshoapp/babe.html')
 
-def base(request):
-    return render(request, 'keshoapp/base.html')
+# def base(request):
+#     return render(request, 'keshoapp/base.html')
 #trying to add a babe form
 
 
